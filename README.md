@@ -1,6 +1,3 @@
-#Boostrap assets link
-https://startbootstrap.com/previews/sb-admin-2
-
 # financeadmin
 Integrate Bootstrap/HTML Template In ReactJS
 Compiled with problems:X
